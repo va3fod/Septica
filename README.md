@@ -15,13 +15,14 @@
 - Match-win cheers
 - **Piele** celebration (a clean sweep of every card in the deal): beer cheers plus a plate of mici
 - Works **offline** in any browser, on phone and desktop
+- A tiny, anonymous **visit counter** (no cookies, no personal data) is shown on the start screen
 
 ## How to play
 
 - Open the game in your browser: [https://va3fod.github.io/Septica/](https://va3fod.github.io/Septica/)
 - Or download [`index.html`](./index.html) and open it locally — no install, and no internet needed after that.
 
-A copy of the v1.6 build is also attached to the [v1.6 release](https://github.com/va3fod/Septica/releases/tag/v1.6) as `Septica_v1.6.html`.
+A copy of the v1.7 build is also attached to the [v1.7 release](https://github.com/va3fod/Septica/releases/tag/v1.7) as `Septica_v1.7.html`.
 
 ## Screenshots
 
@@ -58,4 +59,4 @@ Made by Val, VA3FOD.
 
 ## Source and rights
 
-The source code for this game is not published. This repository contains only the protected v1.6 build and this README. All rights reserved.
+The source code for this game is not published. This repository contains only the protected v1.7 build and this README. All rights reserved.
