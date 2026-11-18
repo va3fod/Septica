@@ -11,7 +11,7 @@
 - **English** and **Romanian**
 - Rename yourself
 - **Continue / Stop** when you can cut
-- Last-card auto-play
+- Last-card auto-play (Continue / Stop is still offered when your last card can cut)
 - Match-win cheers
 - **Piele** celebration (a clean sweep of every card in the deal): beer cheers plus a plate of mici
 - Works **offline** in any browser, on phone and desktop
@@ -22,7 +22,7 @@
 - Open the game in your browser: [https://va3fod.github.io/Septica/](https://va3fod.github.io/Septica/)
 - Or download [`index.html`](./index.html) and open it locally — no install, and no internet needed after that.
 
-A copy of the v1.7 build is also attached to the [v1.7 release](https://github.com/va3fod/Septica/releases/tag/v1.7) as `Septica_v1.7.html`.
+A copy of the v1.8 build is also attached to the [v1.8 release](https://github.com/va3fod/Septica/releases/tag/v1.8) as `Septica_v1.8.html`.
 
 ## Screenshots
 
@@ -53,10 +53,14 @@ Piele — taking every card in the deal:
 - **10s and Aces** are the point cards (1 point each). There are 8 points in a deal.
 - The player or team with more points wins the deal. First to the match target wins the match.
 
+## What's new in v1.8
+
+- You can now **Stop** on the second-to-last hand, even when your last card could cut. Before, the game played it for you automatically.
+
 ## Credit
 
 Made by Val, VA3FOD.
 
 ## Source and rights
 
-The source code for this game is not published. This repository contains only the protected v1.7 build and this README. All rights reserved.
+The source code for this game is not published. This repository contains only the protected v1.8 build and this README. All rights reserved.
