@@ -22,7 +22,7 @@
 - Open the game in your browser: [https://va3fod.github.io/Septica/](https://va3fod.github.io/Septica/)
 - Or download [`index.html`](./index.html) and open it locally — no install, and no internet needed after that.
 
-A copy of the v1.8 build is also attached to the [v1.8 release](https://github.com/va3fod/Septica/releases/tag/v1.8) as `Septica_v1.8.html`.
+A copy of the v1.9 build is also attached to the [v1.9 release](https://github.com/va3fod/Septica/releases/tag/v1.9) as `Septica_v1.9.html`.
 
 ## Screenshots
 
@@ -53,6 +53,10 @@ Piele — taking every card in the deal:
 - **10s and Aces** are the point cards (1 point each). There are 8 points in a deal.
 - The player or team with more points wins the deal. First to the match target wins the match.
 
+## What's new in v1.9
+
+- **Smarter 4-player partner.** When you already hold the round, your AI partner no longer cuts you. It throws in a point (10 or Ace) for the team, or a low card if it has no point to give, and saves its 7s. It still cuts when the other team is about to take the round. Your partner now plays for you the same way the opponents play for each other.
+
 ## What's new in v1.8
 
 - You can now **Stop** on the second-to-last hand, even when your last card could cut. Before, the game played it for you automatically.
@@ -63,4 +67,4 @@ Made by Val, VA3FOD.
 
 ## Source and rights
 
-The source code for this game is not published. This repository contains only the protected v1.8 build and this README. All rights reserved.
+The source code for this game is not published. This repository contains only the protected v1.9 build and this README. All rights reserved.
