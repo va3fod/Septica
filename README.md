@@ -4,6 +4,8 @@
 
 [Play now on GitHub Pages](https://va3fod.github.io/Septica/)
 
+More apps by Val: [Val apps hub](https://va3fod.github.io/)
+
 ## Features
 
 - **2-player** and **4-player teams** versus AI
